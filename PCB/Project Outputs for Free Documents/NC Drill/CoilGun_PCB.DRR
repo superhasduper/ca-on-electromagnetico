@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: CoilGun_PCB.PcbDoc   28/05/2022  3:28:20
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : CoilGun_PCB.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.6mm (24mil)                                             Round             29        PTH        240.41mm (9.47inch)
+T2      0.7mm (28mil)                                             Round             4         PTH        57.56mm (2.27inch)
+T3      0.71mm (28mil)                                            Round             1         PTH        0.00mm (0.00inch)
+T4      0.8mm (31mil)                                             Round             3         PTH        4.00mm (0.16inch)
+T5      0.9mm (35mil)                                             Round             80        PTH        380.68mm (14.99inch)
+T6      1mm (39mil)                                               Round             30        PTH        309.43mm (12.18inch)
+T7      1.1mm (43mil)                                             Round             16        PTH        47.75mm (1.88inch)
+T8      1.3mm (51mil)                                             Round             25        PTH        190.50mm (7.50inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              188
+
+Total Processing Time (hh:mm:ss) : 00:00:00

@@ -1,0 +1,92 @@
+Removed Pin From Net: NetName=NetC2_1 Pin=R_LED_ON-1
+Removed Pin From Net: NetName=NetLED_ON_2 Pin=R_LED_ON-2
+Removed Pin From Net: NetName=5V Pin=R_SEN11-1
+Removed Pin From Net: NetName=NetP_SEN1_1 Pin=R_SEN11-2
+Removed Pin From Net: NetName=5V Pin=R_SEN21-1
+Removed Pin From Net: NetName=NetP_SEN2_1 Pin=R_SEN21-2
+Removed Pin From Net: NetName=5V Pin=R_SEN31-1
+Removed Pin From Net: NetName=NetP_SEN3_1 Pin=R_SEN31-2
+Removed Pin From Net: NetName=5V Pin=R_SEN41-1
+Removed Pin From Net: NetName=NetP_SEN4_1 Pin=R_SEN41-2
+Removed Pin From Net: NetName=5V Pin=R_SEN51-1
+Removed Pin From Net: NetName=NetP_SEN5_1 Pin=R_SEN51-2
+Removed Member From Class: ClassName=CoilGun_Schematic Member=R_SEN11
+Removed Member From Class: ClassName=CoilGun_Schematic Member=R_SEN21
+Removed Member From Class: ClassName=CoilGun_Schematic Member=R_SEN31
+Removed Member From Class: ClassName=CoilGun_Schematic Member=R_SEN41
+Removed Member From Class: ClassName=CoilGun_Schematic Member=R_SEN51
+Change Component Footprint: Designator=R_LED_BUILTIN Old Footprint=FP-RT0805-MFG New Footprint=RESC3216X70X50ML20T25
+Change Component Footprint: Designator=R_LED_ON Old Footprint=FP-RT0805-MFG New Footprint=RESC3216X70X50ML20T25
+Change Component Footprint: Designator=R_LED_SEN1 Old Footprint=FP-RT0805-MFG New Footprint=RESC3216X70X50ML20T25
+Change Component Footprint: Designator=R_LED_SEN2 Old Footprint=FP-RT0805-MFG New Footprint=RESC3216X70X50ML20T25
+Change Component Footprint: Designator=R_LED_SEN3 Old Footprint=FP-RT0805-MFG New Footprint=RESC3216X70X50ML20T25
+Change Component Footprint: Designator=R_LED_SEN4 Old Footprint=FP-RT0805-MFG New Footprint=RESC3216X70X50ML20T25
+Change Component Footprint: Designator=R_LED_SEN5 Old Footprint=FP-RT0805-MFG New Footprint=RESC3216X70X50ML20T25
+Change Component Comment : Designator=R_LED_BUILTIN Old Comment=150 OHM New Comment=120 OHM
+Change Component Comment : Designator=R_LED_ON Old Comment=150 OHM New Comment=120 OHM
+Change Component Comment : Designator=R_LED_SEN1 Old Comment=150 OHM New Comment=120 OHM
+Change Component Comment : Designator=R_LED_SEN2 Old Comment=150 OHM New Comment=120 OHM
+Change Component Comment : Designator=R_LED_SEN3 Old Comment=150 OHM New Comment=120 OHM
+Change Component Comment : Designator=R_LED_SEN4 Old Comment=150 OHM New Comment=120 OHM
+Change Component Comment : Designator=R_LED_SEN5 Old Comment=150 OHM New Comment=120 OHM
+Change Managed Component Library Link : Designator=R_LED_BUILTIN Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=C29F75D4-82FE-4E49-B46B-E162C3430118 New ItemGUID=C454BBA5-DA30-45FD-A9D7-1059E9C60B5E Old RevisionGUID=A2201DEB-493B-497F-B59B-C25CE9DA5991 New RevisionGUID=A2B0121E-EFAD-4A09-BC5C-2ABAA5E11B7F
+Change Managed Component Library Link : Designator=R_LED_ON Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=C29F75D4-82FE-4E49-B46B-E162C3430118 New ItemGUID=C454BBA5-DA30-45FD-A9D7-1059E9C60B5E Old RevisionGUID=A2201DEB-493B-497F-B59B-C25CE9DA5991 New RevisionGUID=A2B0121E-EFAD-4A09-BC5C-2ABAA5E11B7F
+Change Managed Component Library Link : Designator=R_LED_SEN1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=C29F75D4-82FE-4E49-B46B-E162C3430118 New ItemGUID=C454BBA5-DA30-45FD-A9D7-1059E9C60B5E Old RevisionGUID=A2201DEB-493B-497F-B59B-C25CE9DA5991 New RevisionGUID=A2B0121E-EFAD-4A09-BC5C-2ABAA5E11B7F
+Change Managed Component Library Link : Designator=R_LED_SEN2 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=C29F75D4-82FE-4E49-B46B-E162C3430118 New ItemGUID=C454BBA5-DA30-45FD-A9D7-1059E9C60B5E Old RevisionGUID=A2201DEB-493B-497F-B59B-C25CE9DA5991 New RevisionGUID=A2B0121E-EFAD-4A09-BC5C-2ABAA5E11B7F
+Change Managed Component Library Link : Designator=R_LED_SEN3 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=C29F75D4-82FE-4E49-B46B-E162C3430118 New ItemGUID=C454BBA5-DA30-45FD-A9D7-1059E9C60B5E Old RevisionGUID=A2201DEB-493B-497F-B59B-C25CE9DA5991 New RevisionGUID=A2B0121E-EFAD-4A09-BC5C-2ABAA5E11B7F
+Change Managed Component Library Link : Designator=R_LED_SEN4 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=C29F75D4-82FE-4E49-B46B-E162C3430118 New ItemGUID=C454BBA5-DA30-45FD-A9D7-1059E9C60B5E Old RevisionGUID=A2201DEB-493B-497F-B59B-C25CE9DA5991 New RevisionGUID=A2B0121E-EFAD-4A09-BC5C-2ABAA5E11B7F
+Change Managed Component Library Link : Designator=R_LED_SEN5 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=C29F75D4-82FE-4E49-B46B-E162C3430118 New ItemGUID=C454BBA5-DA30-45FD-A9D7-1059E9C60B5E Old RevisionGUID=A2201DEB-493B-497F-B59B-C25CE9DA5991 New RevisionGUID=A2B0121E-EFAD-4A09-BC5C-2ABAA5E11B7F
+Change component parameters: Designator = "R_LED_BUILTIN" ("R_LED_BUILTIN"); Footprint = "FP-RT0805-MFG"; UniqueID = "\PSGNEHOU" ("\PSGNEHOU")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "ERA8AEB121V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R_LED_ON" ("R_LED_ON"); Footprint = "FP-RT0805-MFG"; UniqueID = "\EHJGZYIS" ("\EHJGZYIS")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "ERA8AEB121V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R_LED_SEN1" ("R_LED_SEN1"); Footprint = "FP-RT0805-MFG"; UniqueID = "\NBZFKJSU" ("\NBZFKJSU")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "ERA8AEB121V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R_LED_SEN2" ("R_LED_SEN2"); Footprint = "FP-RT0805-MFG"; UniqueID = "\XZFWWRKA" ("\XZFWWRKA")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "ERA8AEB121V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R_LED_SEN3" ("R_LED_SEN3"); Footprint = "FP-RT0805-MFG"; UniqueID = "\DUWZDAIZ" ("\DUWZDAIZ")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "ERA8AEB121V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R_LED_SEN4" ("R_LED_SEN4"); Footprint = "FP-RT0805-MFG"; UniqueID = "\FVXEXVLT" ("\FVXEXVLT")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "ERA8AEB121V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R_LED_SEN5" ("R_LED_SEN5"); Footprint = "FP-RT0805-MFG"; UniqueID = "\TISIYYPI" ("\TISIYYPI")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "ERA8AEB121V"; VariantName = "[No Variations]"
+Added Component: Designator=R_SEN1(RESC3216X70X50ML20T25)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERA8AEB121V"; VariantName = "[No Variations]"
+Added Component: Designator=R_SEN2(RESC3216X70X50ML20T25)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERA8AEB121V"; VariantName = "[No Variations]"
+Added Component: Designator=R_SEN3(RESC3216X70X50ML20T25)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERA8AEB121V"; VariantName = "[No Variations]"
+Added Component: Designator=R_SEN4(RESC3216X70X50ML20T25)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERA8AEB121V"; VariantName = "[No Variations]"
+Added Component: Designator=R_SEN5(RESC3216X70X50ML20T25)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERA8AEB121V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetLED_ON_2 Pin=R_LED_ON-1
+Added Pin To Net: NetName=NetC2_1 Pin=R_LED_ON-2
+Added Pin To Net: NetName=5V Pin=R_SEN1-1
+Added Pin To Net: NetName=NetP_SEN1_1 Pin=R_SEN1-2
+Added Pin To Net: NetName=5V Pin=R_SEN2-1
+Added Pin To Net: NetName=NetP_SEN2_1 Pin=R_SEN2-2
+Added Pin To Net: NetName=5V Pin=R_SEN3-1
+Added Pin To Net: NetName=NetP_SEN3_1 Pin=R_SEN3-2
+Added Pin To Net: NetName=5V Pin=R_SEN4-1
+Added Pin To Net: NetName=NetP_SEN4_1 Pin=R_SEN4-2
+Added Pin To Net: NetName=5V Pin=R_SEN5-1
+Added Pin To Net: NetName=NetP_SEN5_1 Pin=R_SEN5-2
+Added Member To Class: ClassName=CoilGun_Schematic Member=Component R_SEN1 120 OHM
+Added Member To Class: ClassName=CoilGun_Schematic Member=Component R_SEN2 120 OHM
+Added Member To Class: ClassName=CoilGun_Schematic Member=Component R_SEN3 120 OHM
+Added Member To Class: ClassName=CoilGun_Schematic Member=Component R_SEN4 120 OHM
+Added Member To Class: ClassName=CoilGun_Schematic Member=Component R_SEN5 120 OHM
+Added Room: Name=CoilGun_Schematic

@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=NetJO2_1 Pin=JO2-1
+Removed Pin From Net: NetName=BATT Pin=JO3-2
+Removed Pin From Net: NetName=BATT Pin=Q3-2
+Removed Pin From Net: NetName=BATT Pin=R_LED_OUT3-1
+Add Pin To Net: Unknown Pin: Pin *-0
+Add Pin To Net: Unknown Pin: Pin *-1
+Add Pin To Net: Unknown Pin: Pin *-2
+Added Pin To Net: NetName=BATT Pin=JO2-1
+Change Net Name : Old Net Name=NetJO2_1 New Net Name=NetJO2_2
+Added Pin To Net: NetName=NetJO3_2 Pin=JO3-2
+Added Pin To Net: NetName=NetJO3_2 Pin=Q3-2
+Added Pin To Net: NetName=NetJO3_2 Pin=R_LED_OUT3-1
+Added Net: Name=NetJO3_2
+Add Class Member: Failed to add class member : Component * POT
+Added Room: Name=CoilGun_Schematic

@@ -1,0 +1,9 @@
+Change component parameters: Designator = "R001" ("R001"); Footprint = "RESC3116X65X40LL10T20"; UniqueID = "\GGQXIFHB" ("\GGQXIFHB")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=*(POT)
+Add Pin To Net: Unknown Pin: Pin *-0
+Added Pin To Net: NetName=Net*_1 Pin=*-1
+Added Pin To Net: NetName=Net*_2 Pin=*-2
+Added Member To Class: ClassName=CoilGun_Schematic Member=Component * POT
+Added Member To Class: ClassName=CoilGun_Schematic Member=Component R401 10K OHM

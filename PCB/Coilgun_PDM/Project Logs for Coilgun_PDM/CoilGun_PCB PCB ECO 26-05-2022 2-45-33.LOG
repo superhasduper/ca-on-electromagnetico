@@ -1,0 +1,3 @@
+Change Component Designator: OldDesignator=U1 NewDesignator=VR1
+Added Member To Class: ClassName=CoilGun_Schematic Member=Component U1 4N35
+Added Member To Class: ClassName=CoilGun_Schematic Member=Component VR1 NCP1117ST50T3G

@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=NetCPU1_15 Pin=P_EXP-1
+Removed Pin From Net: NetName=NetCPU1_16 Pin=P_EXP-3
+Added Pin To Net: NetName=NetCPU1_16 Pin=P_EXP-1
+Added Pin To Net: NetName=NetCPU1_15 Pin=P_EXP-3
+Added Member To Class: ClassName=CoilGun_Schematic Member=Component R_SEN51 150 OHM

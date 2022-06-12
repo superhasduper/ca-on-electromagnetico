@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=NetCPU1_2 Pin=P_EXP-1
+Removed Pin From Net: NetName=NetCPU1_5 Pin=P_EXP-3
+Removed Pin From Net: NetName=NetCPU1_15 Pin=P_EXP-4
+Removed Pin From Net: NetName=NetCPU1_16 Pin=P_EXP-5
+Removed Pin From Net: NetName=NetCPU1_24 Pin=P_EXP-6
+Removed Pin From Net: NetName=NetCPU1_26 Pin=P_EXP-8
+Removed Pin From Net: NetName=NetCPU1_28 Pin=P_EXP-9
+Removed Pin From Net: NetName=NetCPU1_27 Pin=P_EXP-10
+Added Pin To Net: NetName=NetCPU1_15 Pin=P_EXP-1
+Added Pin To Net: NetName=NetCPU1_16 Pin=P_EXP-3
+Added Pin To Net: NetName=NetCPU1_2 Pin=P_EXP-4
+Added Pin To Net: NetName=NetCPU1_24 Pin=P_EXP-5
+Added Pin To Net: NetName=NetCPU1_28 Pin=P_EXP-6
+Added Pin To Net: NetName=NetCPU1_27 Pin=P_EXP-8
+Added Pin To Net: NetName=NetCPU1_26 Pin=P_EXP-9
+Added Pin To Net: NetName=NetCPU1_5 Pin=P_EXP-10

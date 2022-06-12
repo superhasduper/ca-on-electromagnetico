@@ -1,0 +1,10 @@
+Change Component Designator: OldDesignator=U1 NewDesignator=CPU1
+Change Net Name : Old Net Name=NetR001_2 New Net Name=NetCPU1_23
+Change Net Name : Old Net Name=NetR006_1 New Net Name=NetCPU1_1
+Change Net Name : Old Net Name=NetR102_2 New Net Name=NetCPU1_11
+Change Net Name : Old Net Name=NetR202_2 New Net Name=NetCPU1_12
+Change Net Name : Old Net Name=NetR302_2 New Net Name=NetCPU1_13
+Change Net Name : Old Net Name=NetR402_2 New Net Name=NetCPU1_14
+Change Net Name : Old Net Name=NetR_LED_BUILTIN_1 New Net Name=NetCPU1_17
+Added Member To Class: ClassName=CoilGun_Schematic Member=Component CPU1 ATmega328P-PU
+Added Member To Class: ClassName=CoilGun_Schematic Member=Component U1 4N35

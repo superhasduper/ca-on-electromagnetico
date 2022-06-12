@@ -1,0 +1,5 @@
+Added Component: Designator=P1(POT)
+Added Pin To Net: NetName=NetP1_0 Pin=P1-0
+Added Pin To Net: NetName=NetP1_1 Pin=P1-1
+Added Pin To Net: NetName=NetP1_2 Pin=P1-2
+Added Member To Class: ClassName=CoilGun_Schematic Member=Component P1 10k OHM
